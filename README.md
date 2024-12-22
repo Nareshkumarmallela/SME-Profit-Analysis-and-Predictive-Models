@@ -15,10 +15,13 @@ This project explores the factors influencing SME profitability using advanced d
 Highlights:
 
 📊 Visualizations: Correlation heatmaps, scatter plots, and residual diagnostics.
+![](https://github.com/Nareshkumarmallela/SME-Profit-Analysis-and-Predictive-Models/blob/main/HeatMap.png)
+![](https://github.com/Nareshkumarmallela/SME-Profit-Analysis-and-Predictive-Models/blob/main/Scatter_diagram.png)
+![](https://github.com/Nareshkumarmallela/SME-Profit-Analysis-and-Predictive-Models/blob/main/Boxplot.png)
 
 📈 Modeling: Strong fit with interpretable results emphasizing R&D investments.
 
 🔗 Explore the Repository: Includes scripts for data analysis, modeling, and PCA, along with outputs and visualizations for SMEs aiming to optimize profitability!
 
-![](https://github.com/Nareshkumarmallela/SME-Profit-Analysis-and-Predictive-Models/blob/main/Scatter_diagram.png)
+
 
