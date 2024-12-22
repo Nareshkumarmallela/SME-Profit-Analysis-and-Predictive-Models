@@ -19,3 +19,6 @@ Highlights:
 📈 Modeling: Strong fit with interpretable results emphasizing R&D investments.
 
 🔗 Explore the Repository: Includes scripts for data analysis, modeling, and PCA, along with outputs and visualizations for SMEs aiming to optimize profitability!
+
+![](https://github.com/Nareshkumarmallela/SME-Profit-Analysis-and-Predictive-Models/blob/main/Scatter_diagram.png)
+
